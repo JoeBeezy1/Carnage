@@ -1,0 +1,21 @@
+Archery
+Aviation
+Awareness
+Boxing
+Camouflage
+Cooking
+Demolition
+Driving
+Endurance
+Farming
+Handgun
+Medical
+Melee Weapons
+Motorcycle
+Rifles
+Running
+Sniping
+Stealth
+Survival
+Tactics
+Thievery
