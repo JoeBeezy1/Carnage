@@ -1,0 +1,14 @@
+{
+	"FixedItems": [
+		"Weapon_Viper_M357",
+		"Cal_357_Ammobox",
+		"WeaponFlashlight_DesertEagle",
+		"DW715_Rail",
+		"Tactical_Handgun_Holster_02",
+		"WeaponSights_RedDot_CA401B"
+	],
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}

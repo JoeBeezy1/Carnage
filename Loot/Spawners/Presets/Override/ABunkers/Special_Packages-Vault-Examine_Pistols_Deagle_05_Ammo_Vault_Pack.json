@@ -1,0 +1,10 @@
+{
+	"FixedItems": [
+		"Cal_50_AE_Ammobox",
+		"Cal_50_AE_Ammobox"
+	],
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}

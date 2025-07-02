@@ -1,0 +1,34 @@
+{
+	"Items": [
+		{
+			"Rarity": "Uncommon",
+			"Id": "Phoenix_Tears"
+		},
+				{
+			"Rarity": "Uncommon",
+			"Id": "C4_Keypad"
+		},
+				{
+			"Rarity": "Uncommon",
+			"Id": "C4_Detonator"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "C4_Pack"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "C4_CircuitBoard"
+		}
+	],
+	"FixedItems": [
+		"KeyCard"
+	],
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0,
+	"PostSpawnActions": [
+		"KillboxKeycard_Sentry"
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Workshop.Crafting",
+				"ItemLootTreeNodes.Workshop.LightsFire",
+				"ItemLootTreeNodes.Workshop.Tools.Heavy",
+				"ItemLootTreeNodes.Workshop.WorkClothes"
+			]
+		},
+		{
+			"Rarity": "VeryRare",
+			"Ids": [
+				"ItemLootTreeNodes.Workshop.Tools.Electrical.Electrical_Repair_Kit",
+				"ItemLootTreeNodes.Workshop.Tools.Electrical.Electrician_Tools"
+				
+			]
+		},	
+		{
+			"Rarity": "VeryRare",
+			"Ids": [
+				"ItemLootTreeNodes.Workshop.Crafting.Lead_Plate"
+			]
+		}
+	],
+	"Probability": 17,
+	"QuantityMin": 1,
+	"QuantityMax": 2,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 0,
+	"RandomDamage": 50,
+	"InitialUsage": 0,
+	"RandomUsage": 50
+}

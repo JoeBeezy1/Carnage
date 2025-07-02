@@ -1,0 +1,39 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.AssaultRifles.AKs.Weapon_AK47_Engraved"
+			]
+		},
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.Handguns.DEagles.Weapon_DEagle_50Gold"
+			]
+		},
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.Handguns.M1911s.Weapon_M1911_Engraved",
+				"ItemLootTreeNodes.Military.Weapons.Handguns.M1911s.Weapon_M1911_Gold",
+				"ItemLootTreeNodes.Military.Weapons.Handguns.M1911s.Weapon_M1911_JayW"
+			]
+		},
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.HuntingStore.Melee.Swords.2H_Katana1"
+			]
+		}
+	],
+	"Probability": 25,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 20,
+	"RandomDamage": 20,
+	"InitialUsage": 0,
+	"RandomUsage": 15
+}

@@ -1,0 +1,24 @@
+{
+	"Items": [
+		{
+			"Rarity": "Uncommon",
+			"Id": "M70_Bayonet"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "WeaponSuppressor_AK15"
+		}
+	],
+	"FixedItems": [
+		"Weapon_RPK-74",
+		"Magazine_RPK",
+		"Cal_7_62x39mm_Ammobox",
+		"Cal_7_62x39mm_Ammobox",
+		"ScopeRail_AK47",
+		"WeaponSights_V3_Holographic"
+	],
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}

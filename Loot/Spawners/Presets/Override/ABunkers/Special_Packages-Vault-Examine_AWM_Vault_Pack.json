@@ -1,0 +1,14 @@
+{
+	"FixedItems": [
+		"Weapon_AWM",
+		"Cal_338_Ammobox",
+		"Magazine_AWM",
+		"Magazine_AWM",
+		"WeaponSuppressor_338_Black",
+		"WeaponScope_Dragunov"
+	],
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}

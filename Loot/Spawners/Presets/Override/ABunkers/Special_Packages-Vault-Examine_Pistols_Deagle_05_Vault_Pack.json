@@ -1,0 +1,31 @@
+{
+	"Items": [
+		{
+			"Rarity": "Uncommon",
+			"Id": "WeaponSights_Shark"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "WeaponSights_Snake"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "WeaponSights_Wasp"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "WeaponSights_Sentry_RDRS"
+		}
+	],
+	"FixedItems": [
+		"Weapon_Deagle_50",
+		"Magazine_DEagle_50",
+		"Cal_50_AE_Ammobox",
+		"WeaponFlashlight_DesertEagle",
+		"Tactical_Handgun_Holster_06"
+	],
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}

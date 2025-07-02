@@ -1,0 +1,17 @@
+{
+	"FixedItems": [
+		"C4_CircuitBoard",
+		"Cal_50bmg_ammobox_tr",
+		"Frag_Grenade",
+		"Frag_Grenade",
+		"Frag_Grenade",
+		"KeyCard"
+	],
+	"InitialDamage": 20,
+	"RandomDamage": 10,
+	"InitialUsage": 0,
+	"RandomUsage": 0,
+	"PostSpawnActions": [
+		"KillboxKeycard_Sentry"
+	]
+}

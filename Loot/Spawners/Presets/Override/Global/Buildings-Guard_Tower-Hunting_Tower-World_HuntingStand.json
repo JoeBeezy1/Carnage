@@ -1,0 +1,29 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.HuntingTower",
+				"ItemLootTreeNodes.GasShop.Other.Money",
+				"ItemLootTreeNodes.GasShop.Other.FoodAndDrink",
+				"ItemLootTreeNodes.GasShop.Other.Flares",
+				"ItemLootTreeNodes.GasShop.Other.Backpacks",
+				"ItemLootTreeNodes.GasShop.Other.Ammo",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.BowParts.BowSilencer_SlipOn",
+				"ItemLootTreeNodes.Military.Ammo.Arrows.Broadheads",
+				"ItemLootTreeNodes.Military.ammo.Arrows.Broadheads.Metal",
+				"ItemLootTreeNodes.HuntingStore.Bows"
+				
+			]
+		}
+	],
+	"Probability": 20,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 0,
+	"RandomDamage": 40,
+	"InitialUsage": 0,
+	"RandomUsage": 40
+}

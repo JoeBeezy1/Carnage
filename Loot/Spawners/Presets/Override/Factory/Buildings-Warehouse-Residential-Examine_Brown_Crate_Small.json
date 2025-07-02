@@ -1,0 +1,41 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Workshop.Crafting",
+				"ItemLootTreeNodes.Workshop.Fishing",
+				"ItemLootTreeNodes.Workshop.LightsFire",
+				"ItemLootTreeNodes.Workshop.Other.Backpacks.WaistBags",
+				"ItemLootTreeNodes.Workshop.Other.Flares",
+				"ItemLootTreeNodes.Workshop.Tools.Hand",
+				"ItemLootTreeNodes.Workshop.Tools.Electrical",
+				"ItemLootTreeNodes.Workshop.Tools.Blades",
+				"ItemLootTreeNodes.Workshop.WorkClothes"
+			]
+		},
+		{
+			"Rarity": "VeryRare",
+			"Ids": [
+				"ItemLootTreeNodes.Workshop.RepairToolkits.General.Tool_Box",
+				"ItemLootTreeNodes.Garage.RepairToolkits.General.Tool_Box_Small"
+				
+			]
+		},	
+		{
+			"Rarity": "VeryRare",
+			"Ids": [
+				"ItemLootTreeNodes.Workshop.Crafting.Lead_Plate"
+			]
+		}
+	],
+	"Probability": 17,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 10,
+	"RandomDamage": 30,
+	"InitialUsage": 10,
+	"RandomUsage": 50
+}

@@ -1,0 +1,27 @@
+{
+	"Items": [
+		{
+			"Rarity": "Uncommon",
+			"Id": "1H_N9_Black"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "1H_N9_White"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "WeaponSuppressor_MK18"
+		}
+	],
+	"FixedItems": [
+		"Weapon_M16A4",
+		"Magazine_M16",
+		"Cal_5_56x45mm_Ammobox",
+		"WeaponScope_ACOG_01",
+		"WeaponSights_OKP-7_Holographic"
+	],
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}

@@ -1,0 +1,12 @@
+{
+	"FixedItems": [
+		"Smoke_Grenade",
+		"Smoke_Grenade",
+		"Smoke_Grenade",
+		"Smoke_Grenade"
+	],
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}

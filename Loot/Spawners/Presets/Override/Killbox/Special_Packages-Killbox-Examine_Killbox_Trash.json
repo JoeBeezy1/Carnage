@@ -1,0 +1,16 @@
+{
+	"Subpresets": [
+		{
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Killbox-Examine_RPG_KillBox_Pack"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Killbox-Examine_RPG_PG_Rockets_KillBox_Pack"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Killbox-Examine_AT4_HEAT_KillBox_Pack"
+		}
+	]
+}

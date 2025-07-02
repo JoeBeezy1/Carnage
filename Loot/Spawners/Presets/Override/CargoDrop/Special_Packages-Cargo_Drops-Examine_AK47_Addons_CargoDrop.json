@@ -1,0 +1,23 @@
+{
+	"Items": [
+		{
+			"Rarity": "Uncommon",
+			"Id": "M70_Bayonet"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "WeaponSuppressor_AK15"
+		}
+	],
+	"FixedItems": [
+		"Weapon_AK47",
+		"Magazine_AK47",
+		"WeaponSights_RedDot_CA401B",
+		"Cal_7_62x39mm_Ammobox",
+		"ScopeRail_AK47"
+	],
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}

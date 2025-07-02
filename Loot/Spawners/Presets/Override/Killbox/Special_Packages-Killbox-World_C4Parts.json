@@ -1,0 +1,49 @@
+{
+	"Items": [
+		{
+			"Rarity": "Uncommon",
+			"Id": "C4_Keypad"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "C4_Detonator"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "C4_Pack"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "C4_CircuitBoard"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "MemoryModule_Level2"
+		},
+		{
+			"Rarity": "Rare",
+			"Id": "MemoryModule_Level3"
+		},
+		{
+			"Rarity": "VeryRare",
+			"Id": "MemoryModule_Level4"
+		},
+		{
+			"Rarity": "ExtremelyRare",
+			"Id": "KeyCard"
+		}
+	],
+	"QuantityMin": 2,
+	"QuantityMax": 2,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": false,
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0,
+  	"PostSpawnActions": [
+		"SetUsage_Max",
+		"KillboxKeycard_Sentry"
+	]
+}
+

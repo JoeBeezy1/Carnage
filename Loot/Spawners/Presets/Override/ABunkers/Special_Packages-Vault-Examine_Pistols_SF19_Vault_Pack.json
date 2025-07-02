@@ -1,0 +1,34 @@
+{
+	"Items": [
+		{
+			"Rarity": "Uncommon",
+			"Id": "WeaponSights_Shark"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "WeaponSights_Snake"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "WeaponSights_Wasp"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "WeaponSights_Sentry_RDRS"
+		}
+	],
+	"FixedItems": [
+		"Weapon_SF19",
+		"Magazine_SF19",
+		"Cal_9mm_Ammobox",
+		"WeaponSuppressor_Handgun",
+		"WeaponFlashlight_M9",
+		"Tactical_Handgun_Holster_02"
+	],
+	"QuantityMin":1,
+	"QuantityMax":1,
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}

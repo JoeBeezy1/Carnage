@@ -1,0 +1,33 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Pharmacy"
+			]
+		}
+	],
+	"Items": [
+		{
+			"Rarity": "VeryRare",
+			"Id": "Medical_Glove_01"
+		},
+		{
+			"Rarity": "ExtremelyRare",
+			"Id": "Emergency_bandage_Big"
+		}
+	],
+	"Probability": 12,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 10,
+	"RandomDamage": 30,
+	"InitialUsage": 10,
+	"RandomUsage": 30,
+	"PostSpawnActions": [
+		"SetClothesDirtiness_ResidentialClothes",
+		"SetCashAmount_SmallStash"
+	]
+}

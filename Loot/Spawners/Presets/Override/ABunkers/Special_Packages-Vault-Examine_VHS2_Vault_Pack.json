@@ -1,0 +1,13 @@
+{
+	"FixedItems": [
+		"Weapon_VHS2_Rail",
+		"Cal_5_56x45mm_Ammobox",
+		"Magazine_VHS2",
+		"WeaponSights_RedDot_CA401B",
+		"WeaponSuppressor_MK18"
+	],
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}

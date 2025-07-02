@@ -1,0 +1,57 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Workshop.Crafting",
+				"ItemLootTreeNodes.Workshop.LightsFire",
+				"ItemLootTreeNodes.Workshop.Tools.Hand",
+				"ItemLootTreeNodes.Workshop.Tools.Blades",
+				"ItemLootTreeNodes.Workshop.Tools.Electrical",
+				"ItemLootTreeNodes.Workshop.Tools.Power"
+			]
+		},
+		{
+			"Rarity": "VeryRare",
+			"Ids": [
+				"ItemLootTreeNodes.Workshop.RepairToolkits.General.Tool_Box",
+				"ItemLootTreeNodes.Garage.RepairToolkits.General.Tool_Box_Small"
+				
+			]
+		},	
+		{
+			"Rarity": "VeryRare",
+			"Ids": [
+				"ItemLootTreeNodes.Workshop.Crafting.Lead_Plate"
+			]
+		}
+	],
+	"Items": [
+		{
+			"Rarity": "ExtremelyRare",
+			"Id": "Screwdriver"
+		},
+		{
+			"Rarity": "VeryRare",
+			"Id": "Lockpick_Item"
+		},
+		{
+			"Rarity": "ExtremelyRare",
+			"Id": "Lockpick_Advanced_Item"
+		}
+	],
+	"Probability": 30,
+	"QuantityMin": 1,
+	"QuantityMax": 2,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 10,
+	"RandomDamage": 50,
+	"InitialUsage": 0,
+	"RandomUsage": 50,
+	"PostSpawnActions": [
+		"SetAmmoAmount_SmallStash",
+		"SetCashAmount_SmallStash",
+		"SetClothesDirtiness_DirtyClothes"
+	]
+}

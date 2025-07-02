@@ -1,0 +1,51 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.CarRepairShop.Tools",
+				"ItemLootTreeNodes.CarRepairShop.RepairToolkits",
+				"ItemLootTreeNodes.CarRepairShop.Crafting",
+				"ItemLootTreeNodes.CarRepairShop.Other"
+			]
+		},
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Garage.VehicleAccesories"
+			]
+		},
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Garage.VehicleAccesories.Parts.Car_Battery",
+				"ItemLootTreeNodes.Garage.VehicleAccesories.Parts.Laika_Engine_Alternator_Item",
+				"ItemLootTreeNodes.Garage.VehicleAccesories.Parts.Rager_Engine_Alternator_Item",
+				"ItemLootTreeNodes.Garage.VehicleAccesories.Parts.WW_Engine_Alternator_Item"
+			]
+		}
+	],
+	"Items": [
+		{
+			"Rarity": "ExtremelyRare",
+			"Id": "Screwdriver"
+		},
+		{
+			"Rarity": "VeryRare",
+			"Id": "Lockpick_Item"
+		},
+		{
+			"Rarity": "ExtremelyRare",
+			"Id": "Lockpick_Advanced_Item"
+		}
+	],
+	"Probability": 20,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}
